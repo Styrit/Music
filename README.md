@@ -8,6 +8,7 @@ Styrit Music is a music controller where you can set up your library and play au
 ### Works 
  - with Foobar2000 + UPnP plugin
  - on Windows 10 (x64)
+ - or should work everywhere where node.js works - but nothing is tested right now
 
 
 ### Key features
