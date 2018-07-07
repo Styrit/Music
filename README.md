@@ -11,4 +11,8 @@ Styrit Music is a music controller where you can set up your library and play au
 
 ### Overview
 
-...
+![](images/library.png)
+
+![](images/album.png)
+
+![](images/settings.png)
