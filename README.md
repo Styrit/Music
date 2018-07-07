@@ -15,12 +15,6 @@ Styrit Music is a music controller where you can set up your library and play au
  - Optimized for speed. 50.000 or 2 Terabytes of files is just fine.
  
 
-### Future plans
- - Playlist support
- - Tidal integration
- - Look and feel like the new tidal desktop app
-
-
 ### Overview
 
 ![](images/library.png)
