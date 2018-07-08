@@ -1,7 +1,7 @@
 Styrit Music is a music controller where you can set up your library and play audio files to a UPnP or OpenHome renderer.
 
 ### Notes
- - Alpha version will be released soon
+ - Download: <https://github.com/Styrit/Music/releases>
  - This repository is for binary releases and bug tracking only
  - Music is managed by albums
 
