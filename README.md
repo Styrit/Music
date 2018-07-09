@@ -1,9 +1,9 @@
-Styrit Music is a music controller where you can set up your library and play audio files to a UPnP or OpenHome renderer.
+Styrit Music is a music controller where you can set up your library and play audio files to a UPnP or OpenHome renderer. Music is managed by albums.
 
 ### Notes
  - Download: <https://github.com/Styrit/Music/releases>
+ - Help: <https://github.com/Styrit/Music/wiki>
  - This repository is for binary releases and bug tracking only
- - Music is managed by albums
 
 ### Works 
  - with Foobar2000 + UPnP plugin
