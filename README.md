@@ -3,13 +3,14 @@
 ### Notes
  - Download: <https://github.com/Styrit/Music/releases>
  - Help: <https://github.com/Styrit/Music/wiki>
- - This repository is for binary releases and bug tracking only
+ - This repository is for releases and bug tracking only
 
-### Works 
- - with Foobar2000 + UPnP plugin
- - on Windows 10 (x64)
- - or should work everywhere where node.js works - but nothing is tested right now
-
+### Works with
+ - [JPLAY](http://jplay.eu/download/)
+ - [JRIver](https://jriver.com/download.html)
+ - [Foobar2000](https://www.foobar2000.org/download) + [UPnP plugin](https://www.foobar2000.org/components/view/foo_upnp)
+ - Windows 10 (x64)
+ 
 
 ### Key features
  - Control the music from any device with a browser
