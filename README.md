@@ -7,7 +7,7 @@
 
 ### Works nice with
  - [JPLAY](http://jplay.eu/download/)
- - [JRIver](https://jriver.com/download.html)
+ - [JRiver](https://jriver.com/download.html)
  - [Foobar2000](https://www.foobar2000.org/download) + [UPnP plugin](https://www.foobar2000.org/components/view/foo_upnp)
  - Windows 10 (x64)
  
