@@ -5,7 +5,7 @@
  - Help: <https://github.com/Styrit/Music/wiki>
  - This repository is for releases and bug tracking only
 
-### Works with
+### Works nice with
  - [JPLAY](http://jplay.eu/download/)
  - [JRIver](https://jriver.com/download.html)
  - [Foobar2000](https://www.foobar2000.org/download) + [UPnP plugin](https://www.foobar2000.org/components/view/foo_upnp)
